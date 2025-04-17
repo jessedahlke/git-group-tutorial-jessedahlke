@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a representation of an unfinished function a group member is working on.
 This is a new change from Spencer Lommel
+=======
+This is a representation of an unfinished function a group member is working on.
+>>>>>>> 3e5dbaafba7a86eaa844a2ce1ac2e2d87eaf43d3
